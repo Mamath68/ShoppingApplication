@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52232525-4492-4c37-ad31-33c23d8f3834" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Input.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MainBtn.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Title.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/HomeScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/formsScreens/LoginScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/formsScreens/RegisterScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/formsScreens/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/BackArrowStyles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/ButtonStyles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/CommonStyles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/DarkModeStyles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/FooterStyles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/HeaderStyles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/HomeStyles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/InputStyles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/LanguageSelectionStyles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/LoginStyles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/ModalStyles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/RegisterStyles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/SettingsBtnStyles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/SettingsScreenStyles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/SplashScreenStyles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/ThemeProviderStyles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/TitleStyle.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Mamath68&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Mamath68/framework_poo_php.git&quot;,
+    &quot;accountId&quot;: &quot;a5934413-4fb1-4ba9-815f-8f4b4088c9e8&quot;
+  }
+}</component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2uAdquiKypfAJPdDciCW4ubD4rK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mathi/WebstormProjects/Serfa/expo/ShoppingApplication/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\mathi\\WebstormProjects\\Serfa\\expo\\ShoppingApplication\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mathi\WebstormProjects\Serfa\expo\ShoppingApplication\src" />
+      <recent name="C:\Users\mathi\WebstormProjects\Serfa\expo\ShoppingApplication\app" />
+      <recent name="C:\Users\mathi\WebstormProjects\Serfa\expo\ShoppingApplication\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mathi\WebstormProjects\Serfa\expo\ShoppingApplication\app" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.25659.40" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52232525-4492-4c37-ad31-33c23d8f3834" name="Changes" comment="" />
+      <created>1741695507321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741695507321</updated>
+      <workItem from="1741695508501" duration="2206000" />
+      <workItem from="1741697775762" duration="7755000" />
+      <workItem from="1741712293179" duration="764000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
